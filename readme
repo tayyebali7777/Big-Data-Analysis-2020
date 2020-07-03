@@ -1,0 +1,2 @@
+In data mining, data pre-processing is a very domian part in whole work. To let all the attributes have the similar weight, we need to do normalization. The propose two different kinds of medthod to do normlization:
+min-max normalization and K-Zero normalization. As we can see in the figure in raw data.
